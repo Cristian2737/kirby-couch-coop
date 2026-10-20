@@ -1,0 +1,2 @@
+# Optional: only tools/exercise_core.py needs Pillow.
+Pillow>=11.3,<13

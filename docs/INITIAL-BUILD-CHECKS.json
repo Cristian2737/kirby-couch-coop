@@ -1,0 +1,31 @@
+{
+  "windows-x64/kirby_coop_libretro.dll": {
+    "bytes": 793088,
+    "sha256": "f51a235c4e07f60724786c02c4cce45e6b51c019200ae9f5080b46c04df0bffb",
+    "architecture": "Windows x64"
+  },
+  "android-arm64/kirby_coop_libretro.so": {
+    "bytes": 1413280,
+    "sha256": "6273ea547ecce2bce9393d95c7522dee2dd3f2829f18f6b290f36ed612989d61",
+    "elf_class": 64,
+    "machine": 183,
+    "load_alignment": [
+      16384,
+      16384,
+      16384
+    ],
+    "libretro_exports": 25
+  },
+  "android-armv7/kirby_coop_libretro.so": {
+    "bytes": 963724,
+    "sha256": "72be2b816895ef3b192af349620489dcac3c5edb3cc00c60d79ee93b790c2452",
+    "elf_class": 32,
+    "machine": 40,
+    "load_alignment": [
+      16384,
+      16384,
+      16384
+    ],
+    "libretro_exports": 25
+  }
+}
